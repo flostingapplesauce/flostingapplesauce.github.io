@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ham Radio &#8211; 0=2 : 93/93 : 418 : Love is the law</title>
+	<atom:link href="/category/ham-radio/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>&#34;We place no reliance on virgin or pigeon&#34;</description>
+	<lastBuildDate>Mon, 23 Oct 2023 08:18:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/07/cropped-SMALL-lauren-london-unicursal-hexagram-square-inverted-32x32.jpg</url>
+	<title>Ham Radio &#8211; 0=2 : 93/93 : 418 : Love is the law</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Notes on WSPR Mode</title>
+		<link>/notes-on-wspr-mode/</link>
+					<comments>/notes-on-wspr-mode/#respond</comments>
+		
+		<dc:creator><![CDATA[Tobit]]></dc:creator>
+		<pubDate>Fri, 07 Jul 2023 23:13:51 +0000</pubDate>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Ham Radio]]></category>
+		<category><![CDATA[radiopics]]></category>
+		<guid isPermaLink="false">/notes-on-wspr-mode/</guid>
+
+					<description><![CDATA[WSPR (Weak Signal Propagation Reporter) is a digital communication mode used in amateur radio. It is designed for sending and receiving very low-power signals, typically in the milliwatt range, over long distances using radio waves. WSPR enables the study of radio propagation and provides valuable data for understanding how signals propagate under various conditions. WSPR operates by transmitting short data packets containing the station&#8217;s call sign, location, and power level on a specific frequency. These transmissions are received by other WSPR stations, and the data is collected and uploaded to online databases such as WSPRNet. WSPRNet is &#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>WSPR (Weak Signal Propagation Reporter) is a digital communication mode used in amateur radio. It is designed for sending and receiving very low-power signals, typically in the milliwatt range, over long distances using radio waves. WSPR enables the study of radio propagation and provides valuable data for understanding how signals propagate under various conditions.</p>
+
+
+
+<p>WSPR operates by transmitting short data packets containing the station&#8217;s call sign, location, and power level on a specific frequency. These transmissions are received by other WSPR stations, and the data is collected and uploaded to online databases such as WSPRNet. WSPRNet is a network of servers that receive and aggregate the data from participating stations worldwide, allowing for the analysis of propagation patterns and the monitoring of signal strengths and path losses.</p>
+
+
+
+<p>Grafana is a powerful open-source software used for visualizing and analyzing data from various sources. It offers flexible and customizable dashboards that can display real-time or historical data in a visually appealing manner. In the context of WSPR, Grafana can be used to create visual representations of propagation data collected from WSPRNet. This allows radio amateurs and researchers to observe trends, track changes in signal strengths, and gain insights into RF propagation characteristics.</p>
+
+
+
+<p>Weather balloons are often employed in radio experiments to measure atmospheric conditions and monitor propagation phenomena. These balloons carry payloads equipped with various sensors and radio equipment, including WSPR transmitters. By launching these weather balloons equipped with WSPR transmitters, researchers can obtain valuable data on atmospheric conditions, wind patterns, and radio signal propagation. The collected data can help in understanding how weather conditions affect radio waves and provide insights into the behavior of RF propagation in different atmospheric layers.</p>
+
+
+
+<p>WSPR is a digital communication mode used in amateur radio to transmit low-power signals for studying RF propagation. WSPRNet is a network that collects and analyzes data from participating stations, and Grafana can be used to visualize this data. Weather balloons equipped with WSPR transmitters are deployed to gather information about atmospheric conditions and RF propagation, contributing to the understanding of radio wave behavior in different environments.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/notes-on-wspr-mode/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ham Radio and Contemporary Occultism: Exploring Overlapping Realms</title>
+		<link>/ham-radio-and-contemporary-occultism-exploring-overlapping-realms/</link>
+					<comments>/ham-radio-and-contemporary-occultism-exploring-overlapping-realms/#respond</comments>
+		
+		<dc:creator><![CDATA[Tobit]]></dc:creator>
+		<pubDate>Tue, 04 Jul 2023 15:13:06 +0000</pubDate>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Ham Radio]]></category>
+		<category><![CDATA[Humor]]></category>
+		<category><![CDATA[radio]]></category>
+		<guid isPermaLink="false">/?p=99</guid>
+
+					<description><![CDATA[The realms of ham radio and contemporary occultism, particularly Thelema, may at first seem disconnected, but upon closer examination, intriguing overlaps emerge. Both pursuits share common threads of exploration, experimentation, and a fascination with hidden knowledge. Let&#8217;s delve into how these seemingly distinct realms can intersect and how practitioners of ham radio and Thelema can find common ground. 1. Communication and Connection: One of the primary functions of ham radio is communication, enabling operators to connect with fellow enthusiasts around the world. Similarly, contemporary occultism, including Thelema, emphasizes the pursuit of communication with forces beyond the mundane &#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>The realms of ham radio and contemporary occultism, particularly Thelema, may at first seem disconnected, but upon closer examination, intriguing overlaps emerge. Both pursuits share common threads of exploration, experimentation, and a fascination with hidden knowledge. Let&#8217;s delve into how these seemingly distinct realms can intersect and how practitioners of ham radio and Thelema can find common ground.</p>
+
+
+
+<p class="has-text-align-center"><strong>1. Communication and Connection:</strong></p>
+
+
+
+<p><br>One of the primary functions of ham radio is communication, enabling operators to connect with fellow enthusiasts around the world. Similarly, contemporary occultism, including Thelema, emphasizes the pursuit of communication with forces beyond the mundane realm. In Thelema, practitioners seek to establish contact with their Holy Guardian Angel or other spiritual entities through ritual, meditation, and divination. Both ham radio and Thelema involve reaching out, making connections, and exploring realms beyond the ordinary.</p>
+
+
+
+<p class="has-text-align-center"><strong>2. Symbolism and Codes:</strong></p>
+
+
+
+<p><br>Ham radio operates with its own set of symbols and codes, such as Morse code, phonetic alphabets, and abbreviations. Similarly, occult traditions employ symbolic systems and codes to represent concepts, energies, and hidden truths. Thelema, for example, incorporates a complex symbolism based on numerology, astrology, and Egyptian mythology. Both ham radio and Thelema engage in the use of symbolic languages to convey meaning and communicate on deeper levels.</p>
+
+
+
+<p class="has-text-align-center"><strong>3. Technical Skill and Mastery:</strong></p>
+
+
+
+<p><br>Operating ham radio equipment requires technical knowledge, proficiency in radio technology, and the ability to navigate the intricacies of frequencies, modulation, and propagation. In a parallel vein, practitioners of Thelema often dedicate themselves to the mastery of ceremonial magick, ritual practices, and esoteric systems. Both pursuits demand a commitment to study, practice, and refinement of skills to achieve desired outcomes.</p>
+
+
+
+<p class="has-text-align-center"><strong>4. Exploration and Experimentation:</strong></p>
+
+
+
+<p><br>Ham radio enthusiasts are known for their spirit of exploration, pushing the boundaries of communication technology, and experimenting with new techniques and equipment. Similarly, practitioners of Thelema engage in personal exploration, seeking to unlock hidden potentials, expand consciousness, and explore mystical realms. Both pursuits encourage curiosity, open-mindedness, and a willingness to venture into uncharted territories.</p>
+
+
+
+<p class="has-text-align-center"><strong>5. Community and Fraternity:</strong></p>
+
+
+
+<p><br>Ham radio has a strong sense of community, with operators forming networks, clubs, and associations to share knowledge, experiences, and camaraderie. Similarly, occult communities, including Thelema, foster a sense of fraternity, where like-minded individuals come together to exchange ideas, support one another&#8217;s spiritual journeys, and collaborate on rituals or magical workings. Both realms offer opportunities for networking, mentoring, and forming meaningful connections with others who share similar interests and passions.</p>
+
+
+
+<p class="has-text-align-center"><strong>6. Radio as a Medium for Magickal Practice:</strong></p>
+
+
+
+<p><br>Some practitioners of contemporary occultism have explored the use of radio as a medium for magickal practice. They utilize the radio waves and frequencies as conduits for energy, intent, and communication with spiritual entities. This practice aligns with the concept of harnessing natural forces and manipulating energies that is central to many occult traditions.</p>
+
+
+
+<p>Ham radio and contemporary occultism, particularly Thelema, may appear disparate at first glance, they possess intriguing areas of overlap. Both pursuits involve communication, symbolism, exploration, technical skill, and a sense of community. They share a fascination with hidden knowledge, seeking connections beyond the mundane. By recognizing and exploring these commonalities, ham radio hobbyists&nbsp; and practitioners of Thelema can find opportunities for inspiration, cross-pollination of ideas, and a deeper understanding of the power of communication and exploration in their respective realms.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/ham-radio-and-contemporary-occultism-exploring-overlapping-realms/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A Brief History of Ham</title>
+		<link>/a-brief-history-of-ham/</link>
+					<comments>/a-brief-history-of-ham/#respond</comments>
+		
+		<dc:creator><![CDATA[Tobit]]></dc:creator>
+		<pubDate>Tue, 04 Jul 2023 15:05:35 +0000</pubDate>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Ham Radio]]></category>
+		<guid isPermaLink="false">/?p=84</guid>
+
+					<description><![CDATA[Ham radio, also known as amateur radio, has a rich and fascinating history that spans over a century. It is a hobby and communication service that allows licensed operators to communicate with others around the world using radio waves. Let&#8217;s delve into the captivating history of ham radio and its evolution from early experiments to a global community of passionate radio enthusiasts. 1. Early Experiments and Spark Gap Transmitters: The roots of ham radio can be traced back to the late 19th century when inventors like Guglielmo Marconi and Nikola Tesla conducted pioneering experiments in wireless telegraphy. &#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Ham radio, also known as amateur radio, has a rich and fascinating history that spans over a century. It is a hobby and communication service that allows licensed operators to communicate with others around the world using radio waves. Let&#8217;s delve into the captivating history of ham radio and its evolution from early experiments to a global community of passionate radio enthusiasts.</p>
+
+
+
+<p class="has-text-align-center"><strong>1. Early Experiments and Spark Gap Transmitters:</strong></p>
+
+
+
+<p><br>The roots of ham radio can be traced back to the late 19th century when inventors like Guglielmo Marconi and Nikola Tesla conducted pioneering experiments in wireless telegraphy. During this period, spark gap transmitters were used to send Morse code messages over long distances, leading to the development of wireless communication systems.</p>
+
+
+
+<p class="has-text-align-center"><strong>2. Regulation and Amateur Licensing:</strong></p>
+
+
+
+<p><br>In the early 20th century, as radio technology advanced, governments recognized the need for regulation. Amateur radio operators, or &#8220;hams,&#8221; were granted licenses to operate non-commercial stations for recreational and experimental purposes. The licensing process ensured that operators had the necessary knowledge and skills to operate radio equipment.</p>
+
+
+
+<p class="has-text-align-center"><strong>3. World War I and Radio Communication:</strong></p>
+
+
+
+<p><br>During World War I, ham radio played a crucial role in military communications. Many amateur radio operators volunteered their skills and equipment to support the war effort. This experience highlighted the significance of amateur radio as a reliable means of communication in times of crisis.</p>
+
+
+
+<p class="has-text-align-center"><strong>4. Advances in Technology and Modes of Communication:</strong></p>
+
+
+
+<p><br>As radio technology continued to evolve, so did ham radio. The introduction of vacuum tube technology in the 1920s revolutionized the field, making it more accessible and enabling voice communication. Hams began experimenting with various modes of communication, including AM (Amplitude Modulation) and later, Single Sideband (SSB), which allowed for clearer voice transmissions.</p>
+
+
+
+<p class="has-text-align-center"><strong>5. International Collaboration and Amateur Radio Organizations:</strong></p>
+
+
+
+<p><br>Throughout the 20th century, amateur radio operators formed national and international organizations to facilitate collaboration, education, and regulatory advocacy. The International Amateur Radio Union (IARU) was founded in 1925 and continues to represent the interests of amateur radio operators worldwide, fostering international friendship and cooperation.</p>
+
+
+
+<p class="has-text-align-center"><strong>6. Community Service and Emergency Communications:</strong></p>
+
+
+
+<p><br>Amateur radio operators have consistently demonstrated their value in providing communication support during emergencies and disasters. From natural disasters to public safety events, hams have contributed their skills and equipment to assist in critical situations, earning them recognition as a valuable asset in emergency communication networks.</p>
+
+
+
+<p class="has-text-align-center"><strong>7. Advancements in Digital Modes and Satellite Communication:</strong></p>
+
+
+
+<p><br>In recent decades, ham radio has witnessed significant advancements in digital modes of communication. Modes like Packet Radio, PSK31, and APRS (Automatic Packet Reporting System) have enabled efficient data transmission and expanded the capabilities of amateur radio. Furthermore, the launch of amateur radio satellites has opened up new possibilities for worldwide communication among hams.</p>
+
+
+
+<p class="has-text-align-center"><strong>8. Continuing Relevance and Innovation:</strong></p>
+
+
+
+<p><br>In the age of the internet and modern communication technologies, ham radio remains relevant and vibrant. It offers a unique and personal means of communication, fostering friendships, cultural exchanges, and technical exploration. Ham radio operators continue to embrace new technologies, such as Software-Defined Radio (SDR) and digital voice modes, ensuring that the hobby continues to evolve with the times.</p>
+
+
+
+<p class="has-text-align-center"><strong>9. Licensing and Regulations Today:</strong></p>
+
+
+
+<p><br>Amateur radio licensing and regulations vary from country to country, but the fundamental principles of ensuring competency and responsible use of the radio spectrum remain. Licensing typically involves passing an examination that tests knowledge of radio theory, regulations, and operating procedures.</p>
+
+
+
+<p class="has-text-align-center"><strong>10. The Spirit of Exploration and Friendship:</strong></p>
+
+
+
+<p><br>Beyond the technical aspects, ham radio is characterized by a spirit of exploration, friendship, and community. It offers a platform for connecting with like-minded individuals around the world, exchanging ideas, experiences, and fostering goodwill across cultural and national boundaries.</p>
+
+
+
+<p>The history of ham radio is a testament to human curiosity, ingenuity, and the desire for global connectivity. From the early days of spark gap transmitters to the modern era of digital communication, ham radio has evolved and adapted, reflecting advancements in technology and the changing needs of society. Despite the availability of numerous communication options today, ham radio continues to thrive as a unique hobby that combines technical skill, community service, and a sense of adventure. It remains a vibrant and enduring pursuit that brings people together, fosters international friendships, and showcases the power of wireless communication. As we look to the future, it is certain that ham radio will continue to evolve, embracing new technologies and expanding its reach, while still preserving the core values of exploration, friendship, and global connectivity that have defined it for over a century.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/a-brief-history-of-ham/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ham Radio and Psychedelic Drugs</title>
+		<link>/ham-radio-and-psychedelic-drugs/</link>
+					<comments>/ham-radio-and-psychedelic-drugs/#respond</comments>
+		
+		<dc:creator><![CDATA[Tobit]]></dc:creator>
+		<pubDate>Tue, 04 Jul 2023 15:04:12 +0000</pubDate>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Ham Radio]]></category>
+		<category><![CDATA[Humor]]></category>
+		<guid isPermaLink="false">/?p=82</guid>
+
+					<description><![CDATA[The Overlap of Psychedelic Drugs and Ham Radio: Exploring Inner and Outer Frontiers The realms of psychedelic drugs and ham radio might seem vastly different at first glance, but beneath the surface, intriguing connections can be found. Both pursuits involve exploration, altered states of consciousness, and the quest for connection—albeit through different means. Let&#8217;s delve into how psychedelic experiences and ham radio can overlap and intersect, revealing unique perspectives on human consciousness and communication. 1. Exploration of Consciousness: Psychedelic substances have long been associated with expanded states of consciousness, opening doors to profound insights, mystical experiences, and &#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>The Overlap of Psychedelic Drugs and Ham Radio: Exploring Inner and Outer Frontiers</p>
+
+
+
+<p>The realms of psychedelic drugs and ham radio might seem vastly different at first glance, but beneath the surface, intriguing connections can be found. Both pursuits involve exploration, altered states of consciousness, and the quest for connection—albeit through different means. Let&#8217;s delve into how psychedelic experiences and ham radio can overlap and intersect, revealing unique perspectives on human consciousness and communication.</p>
+
+
+
+<p class="has-text-align-center"><strong>1. Exploration of Consciousness:</strong></p>
+
+
+
+<p><br>Psychedelic substances have long been associated with expanded states of consciousness, opening doors to profound insights, mystical experiences, and altered perceptions of reality. Similarly, ham radio enthusiasts embark on a journey of exploration—exploring the boundaries of communication, pushing technical limits, and connecting with individuals across vast distances. Both realms share a common theme of venturing into uncharted territories and expanding the boundaries of human experience.</p>
+
+
+
+<p class="has-text-align-center"><strong>2. Connection and Community:</strong></p>
+
+
+
+<p><br>One of the remarkable aspects of ham radio is the sense of community it fosters. Operators come together, exchange knowledge, and form networks of communication across geographic boundaries. Similarly, the use of psychedelic drugs often facilitates a deep sense of connection, empathy, and shared experiences, creating a community of individuals who seek to explore the depths of consciousness. In both realms, participants find support, camaraderie, and shared understanding among like-minded individuals.</p>
+
+
+
+<p class="has-text-align-center"><strong>3. Breaking Barriers and Limitations:</strong></p>
+
+
+
+<p><br>Ham radio breaks down barriers of distance, allowing communication between people who might otherwise be separated by vast geographical expanses. Similarly, psychedelic experiences can dissolve barriers of perception, providing glimpses into expanded realities and interconnectedness. Both pursuits challenge conventional limitations and offer a glimpse into the vast potential of human connection and consciousness.</p>
+
+
+
+<p class="has-text-align-center"><strong>4. Technological and Inner Exploration:</strong></p>
+
+
+
+<p><br>Ham radio is an exploration of technology, involving the mastery of equipment, understanding of frequencies, and navigation of complex systems. Psychedelic experiences, on the other hand, offer inner exploration, providing insights into the workings of the mind, the nature of perception, and the interconnectedness of all things. Both realms engage in a form of exploration—outer or technological in the case of ham radio, and inner or psychological in the case of psychedelics.</p>
+
+
+
+<p class="has-text-align-center"><strong>5. Artistic Expression and Creativity:</strong></p>
+
+
+
+<p><br>Both psychedelic experiences and ham radio can ignite creativity and artistic expression. Many artists and musicians have drawn inspiration from their psychedelic journeys, creating works that convey ineffable experiences and transcendental insights. Similarly, ham radio operators often develop creative ways to communicate, experimenting with antennas, modes, and technology to express themselves through the medium of radio waves.</p>
+
+
+
+<p class="has-text-align-center"><strong>6. Unconventional Perspectives:</strong></p>
+
+
+
+<p><br>Both realms offer unconventional perspectives on the world. Psychedelic experiences can challenge societal norms, expand consciousness, and provide alternative viewpoints on reality. Similarly, ham radio operators often approach communication and technology from a non-mainstream perspective, challenging traditional modes of connection and finding innovative ways to bridge gaps.</p>
+
+
+
+<p>It is important to note that the use of psychedelic substances is subject to legal restrictions in many jurisdictions. Prioritizing personal safety, adhering to legal guidelines, and being aware of potential risks and responsible use are essential considerations for anyone exploring psychedelic substances.</p>
+
+
+
+<p>The overlap between psychedelic drugs and ham radio may not be immediately apparent, but upon closer examination, intriguing connections emerge. Both realms involve exploration, connection, and breaking barriers—whether through expanding consciousness or spanning geographic distances. By recognizing these intersections, individuals can gain unique insights into the depths of human experience, the nature of communication, and the vast potential of consciousness exploration.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/ham-radio-and-psychedelic-drugs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
