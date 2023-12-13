@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -18,16 +21,16 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/07/cropped-SMALL-lauren-london-unicursal-hexagram-square-inverted-32x32.jpg</url>
+	<url>https://i0.wp.com/www.virginorpigeon.org/wp-content/uploads/2023/07/cropped-SMALL-lauren-london-unicursal-hexagram-square-inverted.jpg?fit=32%2C32&#038;ssl=1</url>
 	<title>Self Help &#8211; 0=2 : 93/93 : 418 : Love is the law</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
 		<title>The Efficacy of Masks in Slowing the Spread of COVID-19: A Scientific Perspective</title>
 		<link>/the-efficacy-of-masks-in-slowing-the-spread-of-covid-19-a-scientific-perspective/</link>
 		
@@ -426,7 +429,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">1979</post-id>	</item>
 		<item>
 		<title>Microdosing LSD</title>
 		<link>/microdosing-lsd/</link>
@@ -517,7 +520,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">95</post-id>	</item>
 		<item>
 		<title>Dr. Timothy Leary&#8217;s 8 Circuit Model of Consciousness</title>
 		<link>/dr-timothy-learys-8-circuit-model-of-consciousness/</link>
@@ -615,7 +618,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">93</post-id>	</item>
 		<item>
 		<title>The Power of Parody Religions: Finding Kinship and Healing Through Satire</title>
 		<link>/the-power-of-parody-religions-finding-kinship-and-healing-through-satire/</link>
@@ -821,7 +824,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">68</post-id>	</item>
 		<item>
 		<title>Exploring Mindfulness: History, Techniques, Benefits, and Medical Evidence</title>
 		<link>/exploring-mindfulness-history-techniques-benefits-and-medical-evidence/</link>
@@ -939,7 +942,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">117</post-id>	</item>
 		<item>
 		<title>Alan Watts: Exploring His Life, Teachings, and Influences</title>
 		<link>/alan-watts-exploring-his-life-teachings-and-influences/</link>
@@ -1048,7 +1051,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">115</post-id>	</item>
 		<item>
 		<title>Light Sound Machines for Brainwave Entrainment</title>
 		<link>/light-sound-machines-for-brainwave-entrainment/</link>
@@ -1139,7 +1142,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">105</post-id>	</item>
 		<item>
 		<title>Brainwave Entrainment with Hemispheric Synchronization</title>
 		<link>/brainwave-entrainment-with-hemispheric-synchronization/</link>
@@ -1206,7 +1209,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">103</post-id>	</item>
 		<item>
 		<title>The Mechanics of NLP</title>
 		<link>/the-mechanics-of-nlp/</link>
@@ -1303,6 +1306,6 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">64</post-id>	</item>
 	</channel>
 </rss>

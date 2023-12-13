@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -18,16 +21,16 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/07/cropped-SMALL-lauren-london-unicursal-hexagram-square-inverted-32x32.jpg</url>
+	<url>https://i0.wp.com/www.virginorpigeon.org/wp-content/uploads/2023/07/cropped-SMALL-lauren-london-unicursal-hexagram-square-inverted.jpg?fit=32%2C32&#038;ssl=1</url>
 	<title>Humor &#8211; 0=2 : 93/93 : 418 : Love is the law</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
 		<title>Notes on Masonry and Comparison to Other Orders</title>
 		<link>/superficial-notes-on-masonry-and-a-very-brief-comparison-to-other-occult-orders/</link>
 					<comments>/superficial-notes-on-masonry-and-a-very-brief-comparison-to-other-occult-orders/#respond</comments>
@@ -234,7 +237,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">140</post-id>	</item>
 		<item>
 		<title>The Power of Parody Religions: Finding Kinship and Healing Through Satire</title>
 		<link>/the-power-of-parody-religions-finding-kinship-and-healing-through-satire/</link>
@@ -440,7 +443,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">68</post-id>	</item>
 		<item>
 		<title>The Divine Felines: Cats in Ancient Egypt, the Black Death, Witchcraft, and Aleister Crowley&#8217;s Fascination</title>
 		<link>/the-divine-felines-cats-in-ancient-egypt-the-black-death-witchcraft-and-aleister-crowleys-fascination/</link>
@@ -504,7 +507,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">132</post-id>	</item>
 		<item>
 		<title>Ham Radio and Contemporary Occultism: Exploring Overlapping Realms</title>
 		<link>/ham-radio-and-contemporary-occultism-exploring-overlapping-realms/</link>
@@ -579,7 +582,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">99</post-id>	</item>
 		<item>
 		<title>Ham Radio and Psychedelic Drugs</title>
 		<link>/ham-radio-and-psychedelic-drugs/</link>
@@ -661,6 +664,6 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">82</post-id>	</item>
 	</channel>
 </rss>

@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -18,16 +21,16 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/07/cropped-SMALL-lauren-london-unicursal-hexagram-square-inverted-32x32.jpg</url>
+	<url>https://i0.wp.com/www.virginorpigeon.org/wp-content/uploads/2023/07/cropped-SMALL-lauren-london-unicursal-hexagram-square-inverted.jpg?fit=32%2C32&#038;ssl=1</url>
 	<title>Magick &#8211; 0=2 : 93/93 : 418 : Love is the law</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
 		<title>The Role of the Ars Goetia within Thelema</title>
 		<link>/the-role-of-the-ars-goetia-within-thelema/</link>
 		
@@ -102,7 +105,7 @@
 					
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">1028</post-id>	</item>
 		<item>
 		<title>Thelema: Eastern and Western Individualism</title>
 		<link>/thelema-eastern-and-western-individualism/</link>
@@ -144,7 +147,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">883</post-id>	</item>
 		<item>
 		<title>Eastern Philosophies and Western Religions: Exploring Contrasts and Lessons for Humanity</title>
 		<link>/eastern-philosophies-and-western-religions-exploring-contrasts-and-lessons-for-humanity/</link>
@@ -235,7 +238,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">881</post-id>	</item>
 		<item>
 		<title>The Dynamic Duo: John Dee, Edward Kelly, and Their Profound Influence on Occultism</title>
 		<link>/the-dynamic-duo-john-dee-edward-kelly-and-their-profound-influence-on-occultism/</link>
@@ -303,7 +306,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">112</post-id>	</item>
 		<item>
 		<title>Unveiling the Mysteries of Enochian Magic: History, Application, and Lasting Influence</title>
 		<link>/unveiling-the-mysteries-of-enochian-magic-history-application-and-lasting-influence/</link>
@@ -397,7 +400,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">78</post-id>	</item>
 		<item>
 		<title>The Power of Parody Religions: Finding Kinship and Healing Through Satire</title>
 		<link>/the-power-of-parody-religions-finding-kinship-and-healing-through-satire/</link>
@@ -603,7 +606,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">68</post-id>	</item>
 		<item>
 		<title>Is Magick &#8220;Real&#8221;?</title>
 		<link>/is-magick-real-within-the-construct-of-thelema/</link>
@@ -661,7 +664,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">138</post-id>	</item>
 		<item>
 		<title> Aleister Crowley&#8217;s Insights Into Guardian Angels in Thelema: Unveiling the Sacred Path</title>
 		<link>/aleister-crowleys-insights-into-guardian-angels-in-thelema-unveiling-the-sacred-path/</link>
@@ -728,7 +731,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">134</post-id>	</item>
 		<item>
 		<title>The Divine Felines: Cats in Ancient Egypt, the Black Death, Witchcraft, and Aleister Crowley&#8217;s Fascination</title>
 		<link>/the-divine-felines-cats-in-ancient-egypt-the-black-death-witchcraft-and-aleister-crowleys-fascination/</link>
@@ -792,7 +795,7 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">132</post-id>	</item>
 		<item>
 		<title>Aleister Crowley and the Influence of Occult Organizations on Thelema</title>
 		<link>/aleister-crowley-and-the-influence-of-occult-organizations-on-thelema/</link>
@@ -838,6 +841,6 @@
 			<slash:comments>0</slash:comments>
 		
 		
-			</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">122</post-id>	</item>
 	</channel>
 </rss>
